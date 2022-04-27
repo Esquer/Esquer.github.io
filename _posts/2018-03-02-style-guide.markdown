@@ -6,88 +6,15 @@ date: 2022-04-27 13:35:20 +0200
 tags:
 categories: guide
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+1.-reparan a domicilio?R=Si reparamos a domicilio solo nos tienen que decir con tiempo y dodne vive
+
+2.-reparan cualquier cosa?R=si entra en la rama de las computadoras lo podemos a hacer
+
+3.-cuanto cobran?R=dependiendo del problema de la computadora y lo que cueste la pieza que tengamos  que remplazar
 
 ***
 
 #### Headings by default:
 
 # H1 For example
-## H2 For example
-### H3 For example
-#### H4 For example
-##### H5 For example
-###### H6 For example
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
-
-***
-
-#### Lists
-
-###### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-###### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-#### Quotes
-
-###### A quote looks like this:
-
-> Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain
-
-***
-
-#### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-#### Images
-
-![]({{site.baseurl}}/images/2.jpg)
-
-***
-
-#### Videos
-
-###### Youtube
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
