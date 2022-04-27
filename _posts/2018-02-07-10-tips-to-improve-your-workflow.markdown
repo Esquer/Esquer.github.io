@@ -8,12 +8,21 @@ categories:
 ---
 Reparamos
 1.-computadoras
+
 2.-celulares
+
 3.-desparasitamos compus
+
 4.-ensamblamos compus
+
 5.-teles
+
 6.-consolas
+
 7.-controles 
-8.-bocinas
+
+8.-bocina
+
 9.-ponemos patallas
+
 10.-y limpiamos compus
