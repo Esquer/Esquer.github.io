@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mantenimiento correctivo
-image: 5.jpg
+image: 5.png
 date: 2022-04-27 18:11:18 +0200
 tags: [workflow, minimalism]
 categories: productivity
