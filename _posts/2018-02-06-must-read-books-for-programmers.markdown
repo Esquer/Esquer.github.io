@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mantenimiento preventivo
-image: https://cdn.shopify.com/s/files/1/2202/8727/articles/Sin-titulo-6_750x.png?v=1604777488
+image: 6.jpg
 date: 2022-04-26 10:23:20 +0200
 tags: [books, rest]
 categories: books
